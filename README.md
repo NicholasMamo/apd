@@ -65,5 +65,5 @@ To do the same thing, but extracting participants using TwitterNER, run the foll
     --extractor TwitterNEREntityExtractor \
     --tfidf data/idf.json
 
-> Note: you might need to download additional data for TwitterNER: more details about this library are available in the [TwitterNER GitHub repository].
+> Note: you might need to download additional data for TwitterNER: more details about this library are available in the [TwitterNER GitHub repository](https://github.com/napsternxg/TwitterNER).
 > The downloaded files can be added to the `lib/apd/extractors/local/TwitterNER/data` directory in this repository.
